@@ -53,7 +53,7 @@
 ```bash
 git clone https://github.com/hex-3030/GIT_OSINT_DUMPER.git
 cd GIT_OSINT_DUMPER
-chmod +x gitosint.sh
+chmod +x GIT-OSINT-DUMP-ULIMATE-V1.sh
 ```
 ---
 ## 📖 Usage
