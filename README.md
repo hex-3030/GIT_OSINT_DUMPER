@@ -9,7 +9,7 @@
 [![Bash](https://img.shields.io/badge/bash-5.0+-yellow)](https://www.gnu.org/software/bash/)
 [![Git](https://img.shields.io/badge/git-2.0+-orange)](https://git-scm.com/)
 
-**Created by: HEX (@hex-3030)**
+**Created by:  [HEXD](https://x.com/HEXD__30__30)**
 
 **Extracts EVERYTHING from any git repository - Flags, Emails, API Keys, Passwords, Hashes, IPs, Domains & More!**
 
@@ -89,6 +89,7 @@ All of these are usually pre-installed on Kali Linux, Parrot OS, and most Linux 
 
 - **GitHub:** [hex-3030](https://github.com/hex-3030)
 - **TryHackMe:** [HEXD](https://tryhackme.com/p/HEXD)
+- **Twitter (X):** [@HEXD__30__30](https://x.com/HEXD__30__30)
 
 
 
